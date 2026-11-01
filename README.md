@@ -4,7 +4,7 @@ When did recipe sites get so boring? fun website code possibilities replaced wit
 
 No longer!!
 
-I found a recipie published on X while searching for pie recipes,
+I found a recipie (yet another pun put into my readmes) published on X while searching for pie recipes,
 and because I don't have an account with them I can't always access the recipe.
 Additionally, this recipe has (to my knowledge) not been posted on a recipe website nor commercialized/copywrighted.
 
