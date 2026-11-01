@@ -16,15 +16,18 @@ h1 {
     color:rgb(253, 253, 245)
 }
 details{
-    text-align: center;
+    text-align: left;
 }
 p {
     color: bisque;
-    text-align: center;
+    text-align: left;
 }
 summary{
-    text-align: center;
+    align-items: left;
 }
 #pie{
     width: 200px;
+}
+blockquote{
+    color: bisque;
 }
