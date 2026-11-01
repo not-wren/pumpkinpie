@@ -2,10 +2,16 @@ body {
   background-image: url('https://i.imgur.com/5LbpO51.png');
   background-repeat: no-repeat;
   background-size: cover;
+  background-color:bisque;
+  background-blend-mode: darken;
 }
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+}
+#ing{
+    color: rgb(253, 253, 245);
+    text-align: left 10%;
 }
 h1 {
     color:rgb(253, 253, 245)
