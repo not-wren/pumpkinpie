@@ -9,13 +9,19 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-#ing{
+summary{
     color: rgb(253, 253, 245);
-    text-align: left 10%;
 }
 h1 {
     color:rgb(253, 253, 245)
 }
+details{
+    text-align: center;
+}
 p {
     color: bisque;
+    text-align: center;
+}
+summary{
+    text-align: center;
 }
