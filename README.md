@@ -1,102 +1,11 @@
-### Hi! Welcome to your VS-Code Space!
+A pumpkin pie website!
+When did recipe sites get so boring? fun website code possibilities replaced with endless ads...
+No longer!!
+I found a recipie published on X while searching for pie recipes,
+and because I don't have an account with them I can't always access the recipe.
+Additionally, this recipe has (to my knowledge) not been posted on a recipe website nor commercialized/copywrighted.
 
-You can use this just like you would vs-code on your own computer! For security reasons, we can not give you root access to the container, but we have preinstalled a number of development tools for you!
+So, I added the recipe, tried formatting it as it was in the tweet (or X-t??) and added a spinning pumpkin
+(for viewer (i.e. me) retention).
 
-#### Pre-installed tools:
-If a tool you need is not listed, attempt to install it using one of the package managers listed, and if that is not possible, ask in #spaces on slack and I can probably add the tool!
-
-If a tool listed here is not working, wait a few minutes and try again! The installation is ran in the background upon space creation to minimize space creation times, so you might have to wait a minute or two for all tools to become available
-
-##### Hackatime
-
-Make sure to set your hackatime api key in settings! if you have done that, Hackatime has been auto installed and set up for you, and will be tracking your time
-
-##### General
-```
-git
-github-cli
-curl
-wget
-nano
-vim
-unzip
-zip
-build-essentials
-cmake
-pkg-config
-jq
-tree
-htop
-tmux
-less
-ripgrep
-fd-find
-rsync
-openssh-client
-apt-transport-https
-ca-certificates
-gnupg
-```
-##### Python:
-```
-python3
-python3-pip
-python3-venv
-python3-dev
-python3-setuptools
-uv
-```
-
-##### Javascript:
-```
-nodejs
-npm
-yarn
-pnpm
-```
-
-##### Java:
-```
-openjdk-17-jdk
-openjdk-17-jre
-```
-
-##### Rust:
-```
-rust
-cargo
-```
-
-##### PHP:
-```
-php 
-php-cli 
-php-common 
-php-curl 
-php-json 
-php-mbstring 
-php-xml 
-php-zip
-```
-
-##### Database:
-```
-sqlite3
-postgresql-client
-mysql-client
-redis-tools
-```
-
-##### Ruby:
-```
-ruby
-rails
-```
-
-###### Other:
-```
-go
-crystal
-ffmpeg
-imagemagick
-```
+Coded in HTML and CSS!!
