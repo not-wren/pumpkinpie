@@ -10,16 +10,16 @@ body {
     text-align: center;
 }
 summary{
-    color: rgb(253, 253, 245);
+    color: rgb(248, 246, 246);
 }
 h1 {
-    color:rgb(253, 253, 245)
+    color:rgb(14, 14, 13)
 }
 details{
     text-align: left;
 }
 p {
-    color: bisque;
+    color: rgb(249, 244, 244);
     text-align: left;
 }
 summary{
@@ -29,5 +29,5 @@ summary{
     width: 200px;
 }
 blockquote{
-    color: bisque;
+    color: rgb(250, 247, 247);
 }
